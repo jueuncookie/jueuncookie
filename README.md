@@ -8,9 +8,6 @@
 ## Machine-Learning
 ![machine](https://github.com/jueuncookie/jueuncookie/blob/main/img/machine-learning.png)
 
-## DeepFake
- ![DeepFakeImg](https://github.com/jueuncookie/jueuncookie/blob/main/img/deepfake.png)
-
 ## Java programming
 ## KU CCC Web Study
 ![web](https://github.com/jueuncookie/jueuncookie/blob/main/img/web-study.png)
